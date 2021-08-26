@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\congd\\source\\repos\\demo\\demogit\\DemoGit\\DemoGit.csproj": {}
+    "C:\\Users\\congd\\source\\repos\\demo\\demogit\\demogit\\DemoGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\congd\\source\\repos\\demo\\demogit\\DemoGit\\DemoGit.csproj": {
+    "C:\\Users\\congd\\source\\repos\\demo\\demogit\\demogit\\DemoGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\congd\\source\\repos\\demo\\demogit\\DemoGit\\DemoGit.csproj",
+        "projectUniqueName": "C:\\Users\\congd\\source\\repos\\demo\\demogit\\demogit\\DemoGit.csproj",
         "projectName": "DemoGit",
-        "projectPath": "C:\\Users\\congd\\source\\repos\\demo\\demogit\\DemoGit\\DemoGit.csproj",
+        "projectPath": "C:\\Users\\congd\\source\\repos\\demo\\demogit\\demogit\\DemoGit.csproj",
         "packagesPath": "C:\\Users\\congd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\congd\\source\\repos\\demo\\demogit\\DemoGit\\obj\\",
+        "outputPath": "C:\\Users\\congd\\source\\repos\\demo\\demogit\\demogit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\congd\\AppData\\Roaming\\NuGet\\NuGet.Config",
